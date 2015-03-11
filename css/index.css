@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	background-color: black;
+}
+
+.coming-soon {
+	width: 500px;
+	height: 286px;
+	background-image: url(../images/coming-soon.gif);
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -250px;
+	margin-top: -143px;
+}
