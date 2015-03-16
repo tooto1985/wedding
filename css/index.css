@@ -3,13 +3,13 @@ body {
 	background-color: black;
 }
 
-.coming-soon {
+.home {
 	width: 500px;
-	height: 286px;
-	background-image: url(../images/coming-soon.gif);
-	position: absolute;
-	left: 50%;
-	top: 50%;
-	margin-left: -250px;
-	margin-top: -143px;
+	height: 500px;
+	background-image: url(../images/home.jpg);
+	background-repeat: no-repeat;
+	border-radius: 500px;
+	background-size: cover;
+	background-position: center center;
+	margin: 0 auto;
 }

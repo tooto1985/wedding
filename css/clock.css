@@ -124,11 +124,8 @@
 
 .clock {
   overflow: hidden;
-  position: absolute;
-  left: 50%;
-  margin-left: -256px;
-  top: 50px;
-  z-index: 1;
+  margin: 100px auto;
+  width: 512px;
 }
 
  
