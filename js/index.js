@@ -18,7 +18,7 @@ $(function() {
 		var headerDivWidth = 0;
 		$(".header>div>a").click(function(e) {
 			$("html,body").animate({
-				"scrollTop": $($(this).attr("href")).offset().top - parseInt($("body").css("padding-top"))
+				"scrollTop": $($(this).attr("href")).offset().top - parseInt($("body").css("padding-top")) + 1
 			});
 			e.preventDefault();
 		}).each(function() {
