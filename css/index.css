@@ -59,6 +59,6 @@ body {
 
 .fb-comments {
 	margin: 0 auto;
-  	display: block;
+  	display: block !important;
   	width: 550px;
 }
