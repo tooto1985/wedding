@@ -36,9 +36,14 @@ body {
 }
 
 .block {
-	height:2000px;
 	width:800px;
 	margin: 0 auto;
+}
+
+.text {
+	color: white;
+	text-align: center;
+	font-weight: normal;
 }
 
 .home {
